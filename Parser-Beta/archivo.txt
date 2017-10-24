@@ -1,0 +1,6 @@
+inicio
+	leer(a46);
+	c := (457 + b);
+	d := 4;
+	escribir(c);
+fin

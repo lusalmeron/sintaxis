@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1508871668 source:c:\users\luli\documents\utn\ssl\la ultimaaaaa\parser-beta\scanner.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1508871882 source:c:\users\luli\documents\utn\ssl\la ultimaaaaa\parser-beta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1508871219 c:\users\luli\documents\utn\ssl\la ultimaaaaa\parser-beta\parser.h
+
