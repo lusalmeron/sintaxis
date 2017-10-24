@@ -1,0 +1,13 @@
+inicio
+	leer(a46);
+	c := (457 + b);
+	d := 4;
+	escribir(c);
+fin
+
+A
+4asd
+ASD
+:a
+a:
+b=
